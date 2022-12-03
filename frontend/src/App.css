@@ -1,0 +1,41 @@
+
+.top-container {
+    text-align: center;
+}
+
+.login-form {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.headline {
+    font-size: large;
+    font-weight: 500;
+    padding-left: 2px;
+    text-align: left;
+}
+
+.container {
+    display: grid;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.table {
+    border: 1px solid black;
+}
+.inline{
+    text-align: center;
+}
+
+.label {
+    text-align: center;
+}
